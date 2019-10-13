@@ -10,7 +10,7 @@
 
 ul{
     list-style:  none;
-    padding-left: 20px;
+    padding-left: 30px;
     text-align: center;
     font-size: 13px;
 }
@@ -20,8 +20,9 @@ font-family: sans-serif;
 }
 
 #mainContent{
-    padding-left:540px;
+    padding-left:340px;
     font-family: serif;
+    background: #F1E8D9;
 }
 
 #mainContent h2{
