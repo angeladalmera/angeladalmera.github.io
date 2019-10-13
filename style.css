@@ -1,0 +1,37 @@
+#sideNav{
+    background-color: #F4C2D7;
+}
+
+#sideNav h3{
+    font-family:sans-serif;
+    background: #F1E8D9;
+    
+}
+
+ul{
+    list-style:  none;
+    padding-left: 20px;
+    text-align: center;
+    font-size: 13px;
+}
+
+#mainContent h3{
+font-family: sans-serif;
+}
+
+#mainContent{
+    padding-left:540px;
+    font-family: serif;
+}
+
+#mainContent h2{
+    font-family:sans-serif;
+}
+
+#mainContent h1{
+    font-family:sans-serif;
+}
+
+#mainContent h3{
+    background: #F4C2D7;
+}
